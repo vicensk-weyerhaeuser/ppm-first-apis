@@ -4,21 +4,35 @@
       "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
       "name": "Metric 1",
       "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B", 
+      "metricsDate": "5/10/2024",
+      "requestedById": "AB2670AC-334E-4F30-9E58-126FA592CB8B",
+      "requestedByName": "PPM User 1",
+      "requestorComments": "Lorem ipsum ...", 
+      "active": true, 
       "valuations": [
         {
           "valuationId": "DC94C1B7-77EA-47D9-AA41-CA4FACE4CD7B",
           "name": "Valuation 1-1",
-          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
+          "valuationDate": "5/17/2024",
+          "totalNPV": 10000000,
+          "active": true
         },
         {
           "valuationId": "64993543-3277-4877-B6AE-43C08F2E5A44",
           "name": "Valuation 1-2",
-          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
+          "valuationDate": "5/16/2024",
+          "totalNPV": 100000,
+          "active": false
         },
         {
           "valuationId": "48F06BCA-63CC-4D10-BF4F-157DE35D8671",
           "name": "Valuation 1-3",
-          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
+          "valuationDate": "5/13/2024",
+          "totalNPV": 25000,
+          "active": false
         }      
       ]
     },
