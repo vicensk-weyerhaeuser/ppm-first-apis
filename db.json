@@ -1,68 +1,134 @@
-[
-  {
-    "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
-    "name": "Metric 1",
-    "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B",
-    "valuations": [
-      {
-        "valuationId": "DC94C1B7-77EA-47D9-AA41-CA4FACE4CD7B",
-        "name": "Valuation 1-1",
-        "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
-      },
-      {
-        "valuationId": "64993543-3277-4877-B6AE-43C08F2E5A44",
-        "name": "Valuation 1-2",
-        "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
-      },
-      {
-        "valuationId": "48F06BCA-63CC-4D10-BF4F-157DE35D8671",
-        "name": "Valuation 1-3",
-        "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
-      }
-    ]
-  },
-  {
-    "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61",
-    "name": "Metric 2",
-    "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B",
-    "valuations": [
-      {
-        "valuationId": "C9037399-02C3-4D6C-9BF2-522105237DA3",
-        "name": "Valuation 2-1",
-        "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
-      },
-      {
-        "valuationId": "0B0F7D45-E05F-4434-9B6B-7EBB8CD90AA9",
-        "name": "Valuation 2-2",
-        "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
-      },
-      {
-        "valuationId": "1EB06D24-84D0-4ED4-B488-50B312FF6912",
-        "name": "Valuation 2-3",
-        "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
-      }
-    ]
-  },
-  {
-    "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7",
-    "name": "Metric 3",
-    "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B",
-    "valuations": [
-      {
-        "valuationId": "9CDD6FAC-CE96-4CD4-8CC0-5AAB15BA0571",
-        "name": "Valuation 3-1",
-        "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
-      },
-      {
-        "valuationId": "29CDF78A-1C92-4798-8496-38183D4A749D",
-        "name": "Valuation 3-2",
-        "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
-      },
-      {
-        "valuationId": "781EBD37-9B80-4924-9D46-D3B2E8554EE6",
-        "name": "Valuation 3-3",
-        "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
-      }
-    ]
-  }
-]
+{
+  "metricsAndValuations": [
+    {
+      "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
+      "name": "Metric 1",
+      "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B", 
+      "valuations": [
+        {
+          "valuationId": "DC94C1B7-77EA-47D9-AA41-CA4FACE4CD7B",
+          "name": "Valuation 1-1",
+          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+        },
+        {
+          "valuationId": "64993543-3277-4877-B6AE-43C08F2E5A44",
+          "name": "Valuation 1-2",
+          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+        },
+        {
+          "valuationId": "48F06BCA-63CC-4D10-BF4F-157DE35D8671",
+          "name": "Valuation 1-3",
+          "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+        }      
+      ]
+    },
+    {
+      "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61",
+      "name": "Metric 2",
+      "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B", 
+      "valuations": [
+        {
+          "valuationId": "C9037399-02C3-4D6C-9BF2-522105237DA3",
+          "name": "Valuation 2-1",
+          "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
+        },
+        {
+          "valuationId": "0B0F7D45-E05F-4434-9B6B-7EBB8CD90AA9",
+          "name": "Valuation 2-2",
+          "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
+        },
+        {
+          "valuationId": "1EB06D24-84D0-4ED4-B488-50B312FF6912",
+          "name": "Valuation 2-3",
+          "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
+        }      
+      ]
+    },
+    {
+      "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7",
+      "name": "Metric 3",
+      "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B", 
+      "valuations": [
+        {
+          "valuationId": "9CDD6FAC-CE96-4CD4-8CC0-5AAB15BA0571",
+          "name": "Valuation 3-1",
+          "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
+        },
+        {
+          "valuationId": "29CDF78A-1C92-4798-8496-38183D4A749D",
+          "name": "Valuation 3-2",
+          "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
+        },
+        {
+          "valuationId": "781EBD37-9B80-4924-9D46-D3B2E8554EE6",
+          "name": "Valuation 3-3",
+          "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
+        }
+      ]
+    }
+  ], 
+  "metrics": [
+    {
+      "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E",
+      "name": "Metric 1",
+      "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B"
+    },
+    {
+      "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61",
+      "name": "Metric 2",
+      "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B"
+    },
+    {
+      "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7",
+      "name": "Metric 3",
+      "opportunityId": "472670AC-334E-4F30-9E58-126FA592CB8B"
+    }
+  ], 
+  "valuations": [
+    {
+      "valuationId": "DC94C1B7-77EA-47D9-AA41-CA4FACE4CD7B",
+      "name": "Valuation 1-1",
+      "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+    },
+    {
+      "valuationId": "64993543-3277-4877-B6AE-43C08F2E5A44",
+      "name": "Valuation 1-2",
+      "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+    },
+    {
+      "valuationId": "48F06BCA-63CC-4D10-BF4F-157DE35D8671",
+      "name": "Valuation 1-3",
+      "metricId": "CD5518CA-C17A-46E9-8DAE-498DD00EB18E"
+    },
+    {
+      "valuationId": "C9037399-02C3-4D6C-9BF2-522105237DA3",
+      "name": "Valuation 2-1",
+      "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
+    },
+    {
+      "valuationId": "0B0F7D45-E05F-4434-9B6B-7EBB8CD90AA9",
+      "name": "Valuation 2-2",
+      "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
+    },
+    {
+      "valuationId": "1EB06D24-84D0-4ED4-B488-50B312FF6912",
+      "name": "Valuation 2-3",
+      "metricId": "BAAC909D-6B37-4AD0-A1D0-0CF1B31A6E61"
+    },
+    {
+      "valuationId": "9CDD6FAC-CE96-4CD4-8CC0-5AAB15BA0571",
+      "name": "Valuation 3-1",
+      "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
+    },
+    {
+      "valuationId": "29CDF78A-1C92-4798-8496-38183D4A749D",
+      "name": "Valuation 3-2",
+      "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
+    },
+    {
+      "valuationId": "781EBD37-9B80-4924-9D46-D3B2E8554EE6",
+      "name": "Valuation 3-3",
+      "metricId": "6607AE0C-A0A6-425E-9292-93F7A6A0C1F7"
+    }
+  ]
+}
