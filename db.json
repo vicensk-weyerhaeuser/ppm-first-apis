@@ -5,6 +5,7 @@
       "opportunityName": "#1 Rayonier Demo",
       "firstId": "7064b65e-15e9-4139-92f5-4236ab5aea60",
       "status": "Active",
+      "isActive": "true",
       "updatedOn": "20240910.090411000"
     },
     {
@@ -12,6 +13,7 @@
       "opportunityName": "AAA Test Opportunity 004 - 009",
       "firstId": "da174f98-392f-ef11-840a-6045bd01e022",
       "status": "Active",
+      "isActive": "true",
       "updatedOn": "20240910.083739000"
     },
     {
@@ -19,6 +21,7 @@
       "opportunityName": "FIRST Opportunity Test - 20240910.043646338",
       "firstId": "2726fde9-a5d0-4129-b714-8e99bc35f17a",
       "status": "Inactive",
+      "isActive": "false",
       "updatedOn": "20240916.040441000"
     }
   ],
